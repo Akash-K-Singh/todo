@@ -16,6 +16,7 @@
 		74C676352B8497DA004519FF /* todoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C676342B8497DA004519FF /* todoTests.swift */; };
 		74C6763F2B8497DA004519FF /* todoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C6763E2B8497DA004519FF /* todoUITests.swift */; };
 		74C676412B8497DA004519FF /* todoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C676402B8497DA004519FF /* todoUITestsLaunchTests.swift */; };
+		74C6764E2B84A211004519FF /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C6764D2B84A211004519FF /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		74C6763A2B8497DA004519FF /* todoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = todoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		74C6763E2B8497DA004519FF /* todoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoUITests.swift; sourceTree = "<group>"; };
 		74C676402B8497DA004519FF /* todoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		74C6764D2B84A211004519FF /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				74C676262B8497DA004519FF /* Assets.xcassets */,
 				74C676282B8497DA004519FF /* LaunchScreen.storyboard */,
 				74C6762B2B8497DA004519FF /* Info.plist */,
+				74C6764D2B84A211004519FF /* AddViewController.swift */,
 			);
 			path = todo;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				74C676222B8497D8004519FF /* ViewController.swift in Sources */,
 				74C6761E2B8497D8004519FF /* AppDelegate.swift in Sources */,
+				74C6764E2B84A211004519FF /* AddViewController.swift in Sources */,
 				74C676202B8497D8004519FF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
